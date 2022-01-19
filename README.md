@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talal</h1>
 <h3 align="center">A passionate frontend React developer from Pakistan</h3>
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/itxtalal/itxtalal/blob/master/devcard.svg" width="400" alt="Talal's Dev Card"/></a>
+
+
 <p align="left"> <a href="https://twitter.com/mtalalj" target="blank"><img src="https://img.shields.io/twitter/follow/mtalalj?logo=twitter&style=for-the-badge" alt="mtalalj" /></a> </p>
 
 - 🌱 I’m currently learning **Advanced ReactJS, TailwindCSS, GraphQL**
