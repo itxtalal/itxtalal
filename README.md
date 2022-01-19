@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talal</h1>
 <h3 align="center">A passionate frontend React developer from Pakistan</h3>
 
-<a href="https://app.daily.dev/itxTalal"><img src="https://api.daily.dev/devcards/03455d7d31874b4f89ebc07a47a4714d.png?r=w7j" width="400" alt="Muhammad Talal Jamil's Dev Card"/></a>
 
 <p align="left"> <a href="https://twitter.com/mtalalj" target="blank"><img src="https://img.shields.io/twitter/follow/mtalalj?logo=twitter&style=for-the-badge" alt="mtalalj" /></a> </p>
 
@@ -26,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itxtalal&show_icons=true&locale=en" alt="itxtalal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itxtalal&" alt="itxtalal" /></p>
+
+<a href="https://app.daily.dev/itxTalal"><img src="https://api.daily.dev/devcards/03455d7d31874b4f89ebc07a47a4714d.png?r=w7j" width="400" alt="Muhammad Talal Jamil's Dev Card"/></a>
