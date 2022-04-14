@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mtalalj" target="blank"><img src="https://img.shields.io/twitter/follow/mtalalj?logo=twitter&style=for-the-badge" alt="mtalalj" /></a> </p>
 
-- I'm currently working on semester project of Software Construction using Agile Methodologies **Project R**
+- I'm currently working on semester project of Software Construction using Agile Methodologies **Project GY**
 
 - 🌱 I’m currently learning **NestJS, Recoil, Advanced Typescript, GraphQL**
 
