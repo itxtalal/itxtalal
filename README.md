@@ -5,7 +5,7 @@
 
 - I'm currently working on semester project of Software Construction using Agile Methodologies **Project R**
 
-- 🌱 I’m currently learning **NestJS, Recoil, Advanced Typescript,**
+- 🌱 I’m currently learning **NestJS, Recoil, Advanced Typescript, GraphQL**
 
 - 📫 How to reach me **itxtalal@gmail.com**
 
