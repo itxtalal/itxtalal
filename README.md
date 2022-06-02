@@ -4,6 +4,7 @@ Hi 👋 My name is Talal
 Full Stack Web Developer
 ------------------------
 
+
 I am a Software Engineering student at NUST (6th semester), mainly focusing on Full Stack Web development using Javascript / Typescript. I have 1 year of experience in developing Web apps using React, NextJS, Javascript, Typescript, Firebase, MongoDB, ChakraUI, Redux, Recoil.
 
 * 🌍  I'm based in Islamabad, Pakistan
@@ -12,6 +13,8 @@ I am a Software Engineering student at NUST (6th semester), mainly focusing on F
 * 🧠  I'm learning AWS & GraphQL API's
 * 🤝  I'm open to collaborating on Projects related to Web Dev Focusing React, GraphQL, Typescript
 
+![](https://komarev.com/ghpvc/?username=itxtalal&color=10b981&style=for-the-badge)
+<br />
 <a href="https://www.github.com/itxtalal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itxtalal?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
