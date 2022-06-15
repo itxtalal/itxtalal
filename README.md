@@ -5,7 +5,8 @@ Full Stack Web Developer
 ------------------------
 
 
-I am a Software Engineering student at NUST (6th semester), mainly focusing on Full Stack Web development using Javascript / Typescript. I have 1 year of experience in developing Web apps using React, NextJS, Javascript, Typescript, Firebase, MongoDB, ChakraUI, Redux, Recoil.
+A Software Engineer focused on building modern, efficient and scalable web apps using the latest cutting-edge technologies. I have more than 1 year of experience in developing Web apps using React, NextJS, Javascript, Typescript, Firebase, MongoDB, ChakraUI, TailwindCSS, Redux, and Recoil.
+
 
 * 🌍  I'm based in Islamabad, Pakistan
 * ✉️  You can contact me at [itxtalal@gmail.com](mailto:itxtalal@gmail.com)
