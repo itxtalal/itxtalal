@@ -1,7 +1,7 @@
 Hi 👋 My name is Talal
 ======================
 
-Front-End Web Developer
+Front-End Developer
 ------------------------
 
 
