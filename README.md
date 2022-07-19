@@ -11,7 +11,7 @@ A Software Engineer focused on building modern, efficient and scalable web apps 
 * 🌍  I'm based in Islamabad, Pakistan
 * ✉️  You can contact me at [itxtalal@gmail.com](mailto:itxtalal@gmail.com)
 * 🚀  I'm currently working on [Reddit Clone](https://reddit-clone-five-iota.vercel.app/
-* 🧠  I'm learning AWS & GraphQL API's
+* 🧠  I'm learning AWS, Docker & GraphQL API's
 * 🤝  I'm open to collaborating on Projects related to Web Dev Focusing React, GraphQL, Typescript
 
 ![](https://komarev.com/ghpvc/?username=itxtalal&color=10b981&style=for-the-badge)
