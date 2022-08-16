@@ -12,7 +12,7 @@ A Software Engineer focused on building modern, efficient and scalable web apps 
 * ✉️  You can contact me at [itxtalal@gmail.com](mailto:itxtalal@gmail.com)
 * 🚀  I'm currently working on [Portfolio Website](https://itxtalal.vercel.app/)
 * 🧠  I'm learning AWS, Docker & GraphQL API's
-* 🤝  I'm open to collaborating on Projects related to Web Dev Focusing React, GraphQL, Typescript
+* 🤝  I'm open to collaborating on Projects related to Web Apps
 
 ![](https://komarev.com/ghpvc/?username=itxtalal&color=10b981&style=for-the-badge)
 <br />
