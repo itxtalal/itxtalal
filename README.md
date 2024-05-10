@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talal</h1>
-<h3 align="center">A passionate Software Engineer From NUST with Full-Stack Web Development expertise, delving into Mobile App Development and DevOps</h3>
+<h3 align="center">A Senior Software Engineer with Full-Stack Web Development expertise</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itxtalal&label=Profile%20views&color=931a61&style=flat-square" alt="itxtalal" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops, Docker, AWS, React-Native**
 
-- 👨‍💻 All of my projects are available at [https://itxtalal.vercel.app/](https://itxtalal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://mtalaljamil.me/](https://mtalaljamil.me/)
 
 - 💬 Ask me about **React, Next, Typescript, Tailwind CSS**
 
