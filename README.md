@@ -1,39 +1,112 @@
-![👋 Hi, my name is Muhammad Talal Jamil](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
-
-![Profile views](https://komarev.com/ghpvc/?username=itxtalal&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Muhammad Talal Jamil
-      </h1>
-    </summary>
-  </ul>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0d1117,0e75b6,00d2ff&height=250&section=header&text=Muhammad%20Talal%20Jamil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Automation%20Architect&descFontSize=20&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.linkedin.com/in/itxtalal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.instagram.com/mtalal.j" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://twitter.com/mtalalj" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 8px"></a> <a href="https://www.facebook.com/talalstudent" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 8px"></a></p>
+<div align="center">
+  <a href="https://mtalaljamil.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/itxtalal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mtalalj" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:itxtalal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
- **<h3 align="center">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+<br />
 
-**<h3 align="left">Rapid Fire</h3>**
+<h3 align="center">
+  🚀 Building the intersection of Scalable Web Apps & Autonomous AI Agents.
+</h3>
 
-- 🌱 I'm currently learning: **📚 Exploring Devop & System Design**
-- 💬 Ask me about: **💡 JavaScript, Typescript, React, Next & Vue**
-- 📂 Portfolio: **<a href="https://mtalaljamil.me/" target="_blank">https://mtalaljamil.me/</a>**
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="28" alt="Vue" style="margin-right: 8px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Lottie-FF6F00?logo=lottie&logoColor=white" height="28" alt="Lottie" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="28" alt="Material-UI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="28" alt="Framer Motion" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 8px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Sequelize-2D3748?logo=sequelize&logoColor=white" height="28" alt="Sequelize" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="28" alt="Mongoose" style="margin-right: 8px"> <img src="https://img.shields.io/badge/TypeORM-262627?logo=typeorm&logoColor=white" height="28" alt="TypeORM" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Drizzle-4F5D95?logo=drizzle&logoColor=white" height="28" alt="Drizzle" style="margin-right: 8px"> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="28" alt="NestJS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="28" alt="FastAPI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="28" alt="Redis" style="margin-right: 8px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28" alt="React Native" style="margin-right: 8px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="28" alt="OpenAI" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="28" alt="Chart.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="28" alt="Amazon AWS" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="28" alt="Jest" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white" height="28" alt="Mocha" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=white" height="28" alt="Chai" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="28" alt="Cypress" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" height="28" alt="Adobe Illustrator" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Nuxt.js-00C58E?logo=nuxt.js&logoColor=white" height="28" alt="Nuxt.js" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 8px"> <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white" height="28" alt="AWS Amplify" style="margin-right: 8px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 8px"></div>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=itxtalal&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=itxtalal&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+<p align="center">
+  I am a <b>Full-Stack Engineer</b> and <b>AI Architect</b> based in Islamabad. Currently scaling platforms at <b>Jazz</b>. I specialize in fusing robust engineering with generative AI to create systems that don't just function, but <i>think</i>.
 </p>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=itxtalal&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+---
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨‍💻 The Engineer</h3>
+      <ul>
+        <li><b>Current Focus:</b> Architecting RAG Pipelines & High-Availability Systems.</li>
+        <li><b>Experience:</b> 3+ Years | 10+ Enterprise Projects.</li>
+        <li><b>Philosophy:</b> "Clean code is not a luxury, it's a necessity."</li>
+        <li><b>Secret Weapon:</b> I build my own tools (like <i>CowLoom</i>) to optimize workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Rapid Fire</h3>
+      <ul>
+        <li>🌱 <b>Learning:</b> Advanced System Design & DevOps Patterns.</li>
+        <li>💬 <b>Ask me about:</b> React, Next.js, AI Agents, & Performance.</li>
+        <li>🎨 <b>Design:</b> Skilled in GSAP & Framer Motion.</li>
+        <li>📫 <b>Reach out:</b> <a href="mailto:itxtalal@gmail.com">itxtalal@gmail.com</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><b>Frontend Core</b></td>
+    <td align="center" width="20%"><b>Backend & DB</b></td>
+    <td align="center" width="20%"><b>AI & Intelligence</b></td>
+    <td align="center" width="20%"><b>DevOps & Cloud</b></td>
+    <td align="center" width="20%"><b>Visuals & Animation</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,bootstrap" perline="3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongo,redis,supabase,prisma,mysql" perline="3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" perline="3" /><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,firebase,vercel,postman,jest" perline="3" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>🌟 Featured Projects</h3>
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| 🤖 **MedGPT** | AI-powered diagnostic assistant for stroke and breast cancer detection. | `Python` `OpenAI` `React` |
+| 🛡️ **PhishDetector** | Real-time phishing site detection using Machine Learning. | `ML` `Flask` `CyberSec` |
+| 🎟️ **ROX Admin** | QR-based ticket verification & analytics for large-scale events. | `Next.js` `Node` `Postgres` |
+| 🌙 **Lunar Aura** | A unique TypeScript project exploring lunar destinies. | `TypeScript` `Astro` |
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itxtalal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxtalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=itxtalal&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="streak graph" />
+</div>
+
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=itxtalal&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
