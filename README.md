@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=0d1117,0e75b6,00d2ff&height=250&section=header&text=Muhammad%20Talal%20Jamil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Automation%20Architect&descFontSize=20&descAlignY=55&descAlign=50" alt="Header" />
-</div>
-
-<div align="center">
   <a href="https://mtalaljamil.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/itxtalal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/mtalalj" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -27,7 +23,7 @@
       <h3>👨‍💻 The Engineer</h3>
       <ul>
         <li><b>Current Focus:</b> Architecting RAG Pipelines & High-Availability Systems.</li>
-        <li><b>Experience:</b> 3+ Years | 10+ Enterprise Projects.</li>
+        <li><b>Experience:</b> 4+ Years | 10+ Enterprise Projects.</li>
         <li><b>Philosophy:</b> "Clean code is not a luxury, it's a necessity."</li>
         <li><b>Secret Weapon:</b> I build my own tools (like <i>CowLoom</i>) to optimize workflows.</li>
       </ul>
@@ -95,12 +91,7 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itxtalal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxtalal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
 
-<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=itxtalal&theme=tokyonight&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="streak graph" />
