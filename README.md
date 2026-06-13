@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,100:1a1a3e&height=160&section=header&text=Muhammad%20Talal%20Jamil&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%94%20Platform%20%26%20Cloud&descSize=16&descAlignY=70&descColor=a0a0c0" width="100%"/>
+<div align="center">
+
+# Muhammad Talal Jamil
+
+**Senior Full Stack Engineer — Platform & Cloud**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A0A0C0&center=true&vCenter=true&width=600&lines=Building+scalable+systems+%26+digital+experiences;React+%7C+Next.js+%7C+NestJS+%7C+TypeScript;AWS+%7C+GCP+%7C+Docker+%7C+PostgreSQL;Open+to+Senior+Remote+Roles)](https://github.com/itxtalal)
+
+</div>
 
 [![Portfolio](https://img.shields.io/badge/mtalaljamil.me-0f0f23?style=for-the-badge&logo=vercel&logoColor=white)](https://mtalaljamil.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itxtalal)
